@@ -159,6 +159,6 @@ Additional tuning and instrument presets are planned for the future.
 
 ## Full Source
 
-This repository is a curated excerpt for portfolio review. The complete production codebase — including the full frontend implementation, Redis file registry, audio transcription pipeline, and deployment configuration — is available upon request.
+This repository is a curated excerpt for review. The complete production codebase — including the full frontend implementation, Redis file registry, audio transcription pipeline, and deployment configuration — is available upon request.
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jamisonhb/) or email.
